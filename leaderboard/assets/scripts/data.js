@@ -283,6 +283,10 @@ data = {
     "handle": "HelplessJester",
     "challenges": [
         {
+            "id": 3,
+            "time": "0:20:47.053370"
+        },
+        {
             "id": 5,
             "time": "0:02:59.272927"
         }
