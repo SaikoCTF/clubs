@@ -54,15 +54,5 @@ data = {
     ],
     "participants": [
 
-{
-    "id": "P74360",
-    "handle": "StagingUseMe1",
-    "challenges": [
-        {
-            "id": 5,
-            "time": "0:02:47.797378"
-        }
-    ]
-},
     ]
 }
