@@ -69,6 +69,16 @@ data = {
     ]
 },
 {
+    "id": "P37536",
+    "handle": "VisibleHarbinger",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:10:20.098545"
+        }
+    ]
+},
+{
     "id": "P52922",
     "handle": "WhiteStormlord",
     "challenges": [
