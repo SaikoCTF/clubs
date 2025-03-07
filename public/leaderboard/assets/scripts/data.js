@@ -196,24 +196,7 @@ data = {
         }
     ]
 },
-{
-    "id": "P73128",
-    "handle": "GarrulousSkymage",
-    "challenges": [
-        {
-            "id": 1,
-            "time": "0:43:18.809956"
-        },
-        {
-            "id": 3,
-            "time": "0:17:30.515350"
-        },
-        {
-            "id": 5,
-            "time": "0:01:39.653406"
-        }
-    ]
-},
+,
 {
     "id": "P84441",
     "handle": "ScaryDeathknight",
