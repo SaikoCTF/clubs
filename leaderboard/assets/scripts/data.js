@@ -54,5 +54,10 @@ data = {
     ],
     "participants": [
 
+{
+    "id": "P56879",
+    "handle": "UnitedWeaver",
+    "challenges": []
+},
     ]
 }
