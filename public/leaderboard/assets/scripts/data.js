@@ -100,20 +100,7 @@ data = {
         }
     ]
 },
-{
-    "id": "P47683",
-    "handle": "ToughSamurai",
-    "challenges": [
-        {
-            "id": 3,
-            "time": "0:12:31.046324"
-        },
-        {
-            "id": 5,
-            "time": "0:01:40.144800"
-        }
-    ]
-},
+,
 {
     "id": "P52922",
     "handle": "WhiteStormlord",
@@ -170,7 +157,12 @@ data = {
 {
     "id": "P72139",
     "handle": "HelplessJester",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 5,
+            "time": "0:02:59.272927"
+        }
+    ]
 },
 {
     "id": "P73128",
