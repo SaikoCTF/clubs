@@ -129,5 +129,10 @@ data = {
         }
     ]
 },
+{
+    "id": "P84441",
+    "handle": "ScaryDeathknight",
+    "challenges": []
+},
     ]
 }
