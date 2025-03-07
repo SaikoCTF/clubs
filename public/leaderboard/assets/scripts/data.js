@@ -109,6 +109,10 @@ data = {
     "handle": "ToughSamurai",
     "challenges": [
         {
+            "id": 3,
+            "time": "0:12:31.046324"
+        },
+        {
             "id": 5,
             "time": "0:01:40.144800"
         }
