@@ -106,6 +106,16 @@ data = {
     "challenges": []
 },
 {
+    "id": "P36793",
+    "handle": "WhimsicalSoulguard",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:25:47.066530"
+        }
+    ]
+},
+{
     "id": "P37536",
     "handle": "VisibleHarbinger",
     "challenges": [
