@@ -140,7 +140,12 @@ data = {
 {
     "id": "P43765",
     "handle": "ColossalSeer",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 5,
+            "time": "0:00:56.939601"
+        }
+    ]
 },
 {
     "id": "P45273",
