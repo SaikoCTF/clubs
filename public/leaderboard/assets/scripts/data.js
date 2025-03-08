@@ -315,6 +315,10 @@ data = {
     "handle": "SneakyGunslinger",
     "challenges": [
         {
+            "id": 2,
+            "time": "0:03:52.198031"
+        },
+        {
             "id": 3,
             "time": "0:14:30.855277"
         },
