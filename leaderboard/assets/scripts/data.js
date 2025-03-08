@@ -363,6 +363,10 @@ data = {
     "handle": "GustyWindwalker",
     "challenges": [
         {
+            "id": 2,
+            "time": "0:05:33.378362"
+        },
+        {
             "id": 5,
             "time": "0:04:13.305028"
         },
