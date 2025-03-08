@@ -303,6 +303,11 @@ data = {
     ]
 },
 {
+    "id": "P58541",
+    "handle": "SneakyGunslinger",
+    "challenges": []
+},
+{
     "id": "P72139",
     "handle": "HelplessJester",
     "challenges": [
