@@ -307,7 +307,12 @@ data = {
 {
     "id": "P45516",
     "handle": "GustyWindwalker",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 5,
+            "time": "0:04:13.305028"
+        }
+    ]
 },
 {
     "id": "P47683",
