@@ -257,6 +257,10 @@ data = {
     "handle": "GuiltlessChameleon",
     "challenges": [
         {
+            "id": 3,
+            "time": "0:06:21.833383"
+        },
+        {
             "id": 5,
             "time": "0:11:18.926042"
         }
