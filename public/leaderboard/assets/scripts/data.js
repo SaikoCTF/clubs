@@ -250,7 +250,12 @@ data = {
 {
     "id": "P42388",
     "handle": "GuiltlessChameleon",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 5,
+            "time": "0:11:18.926042"
+        }
+    ]
 },
 {
     "id": "P43765",
