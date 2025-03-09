@@ -185,6 +185,16 @@ data = {
     ]
 },
 {
+    "id": "P30595",
+    "handle": "ForgetfulHarbinger",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:11:25.365724"
+        }
+    ]
+},
+{
     "id": "P31416",
     "handle": "WanderingKristomancer",
     "challenges": [
