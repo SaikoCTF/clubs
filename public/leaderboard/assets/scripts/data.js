@@ -161,7 +161,12 @@ data = {
 {
     "id": "P30204",
     "handle": "UnitedInfiltrator",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 5,
+            "time": "0:04:52.059042"
+        }
+    ]
 },
 {
     "id": "P31416",
